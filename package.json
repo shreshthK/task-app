@@ -1,0 +1,11 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "build task app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "shreshth kandari",
+  "license": "ISC"
+}
